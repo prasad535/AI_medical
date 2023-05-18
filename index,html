@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Microscopes</title>
+  <style>
+    /* Add any custom styles for your webpage here */
+  </style>
+</head>
+<body>
+  <header>
+    <h1>About Microscopes</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Introduction</h2>
+      <p>Write a brief introduction about microscopes here.</p>
+    </section>
+
+    <section>
+      <h2>Types of Microscopes</h2>
+      <ul>
+        <li>Optical Microscope</li>
+        <li>Electron Microscope</li>
+        <li>Scanning Probe Microscope</li>
+        <!-- Add more types of microscopes as needed -->
+      </ul>
+    </section>
+
+    <section>
+      <h2>Applications</h2>
+      <p>Describe the various applications of microscopes.</p>
+    </section>
+
+    <section>
+      <h2>Microscope Parts</h2>
+      <p>Explain the different parts of a microscope and their functions.</p>
+    </section>
+
+    <section>
+      <h2>Tips for Microscope Usage</h2>
+      <ul>
+        <li>Proper sample preparation</li>
+        <li>Focusing techniques</li>
+        <li>Maintenance and care</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2023 YourWebsite.com. All rights reserved.</p>
+  </footer>
+</body>
+</html>
